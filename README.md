@@ -4,7 +4,7 @@
 
 ### Dataset
 
-### Methodology
+### Methodology
 
 ### Results 
 
