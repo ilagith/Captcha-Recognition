@@ -8,12 +8,12 @@ b) Use the best trained classifier in the first task to identify which letters c
 
 ### Dataset
 
-*For task a):*  
+*Task a):*  
 It consists of images of handwritten English alphabet and the corresponding labels. In total 124800 images and labels are present. 
 For each label 4800 different images are available.
 
-*For task b):*  
-It is composed of a series of 4 letters in a corrupted image of size 30 × 140.
+*Task b):*  
+It is composed of a series of 4 letters in a corrupted image of size 30 × 140. No test set was provided.
 
 ### Methodology
 
@@ -22,7 +22,7 @@ K-NN was utilized as a baseline and compared with the classification accuracy of
 
 *Task b)*  
 First, noise was removed from captcha. Then, bounding boxes were used to divide the image into 4 letters. 
-Hence, predictions were made per each letter in the captcha. 
+Hence, predictions were made per each letter. 
 
 ### Results 
 
