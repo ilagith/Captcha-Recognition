@@ -1,14 +1,14 @@
 # Captcha-Recognition
 
-## Introduction 
+### Introduction 
 
-## 
+### Dataset
 
-## Methodology
+### Methodology
 
-## Results 
+### Results 
 
 | *Accuracy Score(%)*| Validation set  | Test set |
 | ------------- | ------------- | ------------- |
-| **K-NN **  | 82.9% | 84.8%  |
-| **CNN ** | 95.01% | 95.4%  |
+| **K-NN**  | 82.9% | 84.8%  |
+| **CNN** | 95.01% | 95.4%  |
