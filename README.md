@@ -13,7 +13,7 @@ It consists of images of handwritten English alphabet and the corresponding labe
 For each label 4800 different images are available.
 
 *Task b):*  
-It is composed of a series of 4 letters in a corrupted image of size 30 × 140. No test set was provided.
+It is composed of a series of 4 letters in a corrupted image of size 30 × 140. No test set was provided for this task. 
 
 ### Methodology
 
